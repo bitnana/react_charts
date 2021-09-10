@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_charts/static/css/main.f60be5b3.chunk.css",
+    "main.js": "/react_charts/static/js/main.71b0b348.chunk.js",
+    "main.js.map": "/react_charts/static/js/main.71b0b348.chunk.js.map",
+    "runtime-main.js": "/react_charts/static/js/runtime-main.62729a28.js",
+    "runtime-main.js.map": "/react_charts/static/js/runtime-main.62729a28.js.map",
+    "static/js/2.ba53fcd3.chunk.js": "/react_charts/static/js/2.ba53fcd3.chunk.js",
+    "static/js/2.ba53fcd3.chunk.js.map": "/react_charts/static/js/2.ba53fcd3.chunk.js.map",
+    "static/js/3.f853a1ee.chunk.js": "/react_charts/static/js/3.f853a1ee.chunk.js",
+    "static/js/3.f853a1ee.chunk.js.map": "/react_charts/static/js/3.f853a1ee.chunk.js.map",
+    "index.html": "/react_charts/index.html",
+    "static/css/main.f60be5b3.chunk.css.map": "/react_charts/static/css/main.f60be5b3.chunk.css.map",
+    "static/js/2.ba53fcd3.chunk.js.LICENSE.txt": "/react_charts/static/js/2.ba53fcd3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_charts/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62729a28.js",
+    "static/js/2.ba53fcd3.chunk.js",
+    "static/css/main.f60be5b3.chunk.css",
+    "static/js/main.71b0b348.chunk.js"
+  ]
+}
